@@ -2,6 +2,7 @@
 Useful - https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2
 https://marclamberti.com/blog/airflow-dag-creating-your-first-dag-in-5-minutes/
 https://www.astronomer.io/guides/airflow-ui  
+https://www.projectpro.io/recipes/use-emailoperator-airflow-dag
 
 Establish docker image
 
